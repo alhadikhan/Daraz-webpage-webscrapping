@@ -18,26 +18,6 @@ The script navigates to the Daraz website, searches for watches, scrapes product
 
 ### Install Dependencies
 
-# Web Scraping Daraz Products
-
-Welcome to the Web Scraping Daraz Products project! This Python script scrapes product information from Daraz using Selenium and BeautifulSoup.
-
-## Description
-
-The script navigates to the Daraz website, searches for watches, scrapes product details such as title, price, ratings, delivery information, and more, and writes the data to a CSV file.
-
-## Requirements
-
-- Python 3.x
-- Chrome browser
-- Selenium
-- BeautifulSoup
-- ChromeDriver
-
-## Installation
-
-### Install Dependencies
-
 pip install selenium webdriver-manager beautifulsoup4
 
 
