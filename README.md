@@ -46,7 +46,7 @@ pip install selenium webdriver-manager beautifulsoup4
 Ensure you have ChromeDriver installed.
 
 Usage
-Run the `scrape_daraz_products.py` script.
+Run the `Daraz's_dynamic_webscrapping.ipynb` notebook.
 Wait for the script to scrape the data.
 Check the generated `products.csv` file for the scraped information.
 
