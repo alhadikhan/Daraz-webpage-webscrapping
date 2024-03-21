@@ -25,12 +25,12 @@ pip install selenium webdriver-manager beautifulsoup4
 
 Ensure you have ChromeDriver installed.
 
-Usage
+### Usage <br>
 Run the `Daraz's_dynamic_webscrapping.ipynb` notebook.
 Wait for the script to scrape the data.
 Check the generated `products.csv` file for the scraped information.
 
-Data Scraped
+### Data Scraped <br>
 - Title: Name of the product.
 - Current Price: The current selling price of the product.
 - Original Price: The original price of the product before any discounts.
